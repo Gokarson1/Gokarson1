@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ##👋 Hola, soy Fabián Sanhueza
 
-🎓 Ingeniero en Informática recién egresado<br/>
+🎓 Egresado de Ingeniería en Informática<br/>
 💻 Apasionado por el desarrollo frontend y backend<br/>
 🛠️ Tecnologías: Flutter, React, Firebase, PostgreSQL, JavaScript, Dart y más<br/>
 📚 Me gusta crear soluciones útiles, bien diseñadas y siempre estoy aprendiendo algo nuevo<br/>
