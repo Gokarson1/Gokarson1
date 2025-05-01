@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##👋 Hola, soy Fabián Sanhueza
+## 👋 Hola, soy Fabián Sanhueza
 
 🎓 Egresado de Ingeniería en Informática<br/>
 💻 Apasionado por el desarrollo frontend y backend<br/>
