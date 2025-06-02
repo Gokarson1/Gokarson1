@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre Mí</h3>
+<h2 align="left">👩‍💻  Sobre Mí</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">🛠 Lenguajes y herramientas</h3>
+<h2 align="left">🛠 Lenguajes y herramientas</h2>
 
 ###
 
@@ -75,13 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokarson1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=gokarson1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
